@@ -27,14 +27,14 @@ The dataset includes employee details such as:
 
 ### **🔹 Machine Learning Models Used**
 - **Logistic Regression**
-- **Random Forest Classifier**
-- **XGBoost Classifier (Best Performing Model)**
+- **Random Forest Classifier(Best Performing Model)**
+
 
 ## **📈 Key Insights & Findings**
 - Employees with **low salaries & high workloads** have **higher turnover rates**.
 - Some departments face **more attrition than others**.
 - Employees working **excessive hours on multiple projects** are **more likely to leave**.
-- The **XGBoost model performed best** in predicting at-risk employees.
+- The **Random Forest Classifier (2nd model) performed best** in predicting at-risk employees.
 
 ## **🏆 Business Recommendations**
 - **Balance workload** to prevent burnout.
@@ -42,14 +42,14 @@ The dataset includes employee details such as:
 - Use the **predictive model** to proactively engage at-risk employees.
 
 ## **📂 Project Structure**
-```
+
 📦 Capstone-Employee-Retention
-├── 📄 README.md (Project Description)
-├── 📁 data (Dataset & Preprocessing Scripts)
-├── 📁 notebooks (EDA, Model Training & Evaluation)
+├── 📄 README.md Project Description
+├── 📁 data - <a href = https://github.com/Titanking333/Salifort-Motors/blob/main/HR_capstone_dataset.csv> Dataset & Preprocessing Scripts </a>
+├── 📁 notebooks - <a href = https://github.com/Titanking333/Salifort-Motors/blob/main/Capstone%20Project.ipynb> EDA, Model Training & Evaluation </a>
 ├── 📁 models (Saved Model Files)
 └── 📁 reports (Visualizations & Final Insights)
-```
+
 
    ```
 

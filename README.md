@@ -45,9 +45,13 @@ The dataset includes employee details such as:
 
 📦 Capstone-Employee-Retention
 ├── 📄 README.md Project Description
+
 ├── 📁 data - <a href = https://github.com/Titanking333/Salifort-Motors/blob/main/HR_capstone_dataset.csv> Dataset & Preprocessing Scripts </a>
+
 ├── 📁 notebooks - <a href = https://github.com/Titanking333/Salifort-Motors/blob/main/Capstone%20Project.ipynb> EDA, Model Training & Evaluation </a>
+
 ├── 📁 models (Saved Model Files)
+
 └── 📁 reports (Visualizations & Final Insights)
 
 
